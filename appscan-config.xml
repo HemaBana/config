@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Configurations>
-<Configuration openSourceOnly="true">
+<Configuration staticAnalysisOnly="true">
+  <Targets>
     <Target path="AltoroJ.war">
-  </Target>
+    </Target>
+  </Targets>
 </Configuration>
-    <Configuration staticAnalysisOnly="true">
-    <Target path="AltoroJ.war">
-  </Target>
-    </Configuration>
-</Configurations>
