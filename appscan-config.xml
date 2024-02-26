@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Configuration>
+<Configuration openSourceOnly="true">
+<Configuration staticAnalysisOnly="true">
   <Targets>
     <Target path="AltoroJ.war">
-      <Exclude>WEB-INF\lib\derby.jar</Exclude>
-      <Exclude>WEB-INF\lib\commons-codec-1.6.jar</Exclude>
-      <Exclude>WEB-INF\lib\log4j-1.2.16.jar</Exclude>
-      <Exclude>WEB-INF\lib\commons-lang-2.5.jar</Exclude>
-    </Target>
   </Targets>
+</Configuration>
 </Configuration>
