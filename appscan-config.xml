@@ -3,6 +3,7 @@
 <Configuration staticAnalysisOnly="true">
   <Targets>
     <Target path="AltoroJ.war">
+    </Target>
   </Targets>
 </Configuration>
 </Configuration>
