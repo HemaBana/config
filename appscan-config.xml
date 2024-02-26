@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Configuration openSourceOnly="false">
+<Configuration openSourceOnly="true">
+ <Configuration staticAnalysisOnly="true">
   <Targets>
     <Target path=""/>
   </Targets>
+</Configuration>
 </Configuration>
