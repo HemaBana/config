@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Configuration openSourceOnly="true" staticAnalysisOnly="true">
+<Configuration openSourceOnly="true" staticAnalysisOnly="false">
   <Targets>
     <Target path=""/>
   </Targets>
